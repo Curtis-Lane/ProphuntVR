@@ -4,6 +4,6 @@ Developed with Unreal Engine 5
 
 Contributors:
 	Curtis Lane
-	___________
+	Christian A. Messenger
 	___________
 	___________

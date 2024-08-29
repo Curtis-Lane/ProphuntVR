@@ -1,6 +1,6 @@
 # VR Prop Hunt
 
-This is a VR game where you are split into 2 seperate teams, hiders and seekers. The hiders can turn into objects in the room, and the seekers will try to find and eliminate the players throughout the map.
+This is a mulitplayer(eventually not yet) VR game where you are split into 2 seperate teams, hiders and seekers. The hiders can turn into objects in the room, and the seekers will try to find and eliminate the players throughout the map.
 
 *Developed with Unreal Engine 5*
 
